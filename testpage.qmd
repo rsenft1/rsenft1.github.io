@@ -1,0 +1,213 @@
+---
+title: "testpage"
+format: 
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: right
+    toc-title: Contents
+    link-external-icon: false
+    link-external-newwindow: true
+    smooth-scroll: true
+---
+## Hi there!
+test test
+
+### Who am i?
+
+## More info:
+
+::: panel-tabset
+## R
+
+    test
+
+## Python
+
+    python test
+:::
+
+::: callout-note
+Tabset groups are a new feature of [Quarto v1.1](https://quarto.org/docs/download/) so please be sure you've installed that version before attempting to use them.
+:::
+
+::: callout-warning
+Tabset groups are a new feature of [Quarto v1.1](https://quarto.org/docs/download/) so please be sure you've installed that version before attempting to use them.
+:::
+
+::: callout-important
+Tabset groups are a new feature of [Quarto v1.1](https://quarto.org/docs/download/) so please be sure you've installed that version before attempting to use them.
+:::
+
+::: callout-tip
+Tabset groups are a new feature of [Quarto v1.1](https://quarto.org/docs/download/) so please be sure you've installed that version before attempting to use them.
+:::
+
+:::{.callout-caution collapse="true"}
+## Expand To Learn About Collapse
+
+This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
+:::
+
+:::{.callout-tip collapse="true"}
+## You can include code blocks inside of collapsed callouts!
+
+Here is some code: 
+```r
+code = code
+```
+:::
+
+::::{.callout-tip collapse="true"}
+## Can we include tabsets? Yes!
+
+Here is some code: 
+
+::: panel-tabset
+## R
+
+    test
+
+## Python
+
+    python test
+:::
+
+::::
+
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+:::{.callout-tip collapse="true"}
+## What about a grid of admonitions
+
+Here is some code: 
+```r
+code="hello"
+```
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+:::{.callout-caution collapse="true"}
+## What about a grid of admonitions
+
+Here is some code: 
+```r
+code="hello"
+```
+:::
+:::
+:::
+
+---
+title: "projects"
+comments: false
+page-layout: full
+---
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<h3 class="card-title">{namedropR}</h3>
+<h6 class="card-subtitle text-muted">R package, available on CRAN</h6>
+</div>
+<img src="assets/images/namedropR_slide.png"/>
+<div class="card-body">
+<p class="card-text">Enables R users to convert a bibliography into a collection of legible, well formatted banners to cite scientific literature on conference slides and posters. </p>
+<img src="https://github.com/nucleic-acid/namedropR/workflows/R-CMD-check/badge.svg" alt="R-CMD-check" style="max-width: 100%;"> <img src="https://cranlogs.r-pkg.org/badges/namedropR" alt="Monthly Downloads">
+<br><br>
+<h5>Key features:</h5>
+</div>
+<ul class="list-group list-group-flush">
+<li class="list-group-item">Output as PNG or HTML object</li>
+<li class="list-group-item">QR code to make citation scannable</li>
+<li class="list-group-item">Predefined styles and individual adjustments</li>
+</ul>
+<div class="card-body">
+<a href="https://nucleic-acid.github.io/namedropR/" class="card-link">Documentation</a>
+<a href="https://cloud.r-project.org/package=namedropR" class="card-link">View on CRAN</a>
+<a href="https://github.com/nucleic-acid/namedropR/" class="card-link">Source code</a>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<h3 class="card-title">30 Day Chart Challenge</h3>
+<h6 class="card-subtitle text-muted">2022 edition</h6>
+</div>
+<img src="assets/images/chartchallenge2022.png"/>
+<div class="card-body">
+<p class="card-text">A data visualization community-challenge. Each day in April has a new prompt for a visualization from five different categories: Comparisons, Distributions, Relationships, Timeseries, Uncertainties.<br>
+I contributed 20 visualizations, learned new technologies and enjoyed the great contributions of the many other participants.</p>
+</div>
+<div class="card-body">
+<a href="https://github.com/nucleic-acid/30DayChartChallenge_2022" class="card-link">My contributions' code</a>
+<a href="https://jollydata.blog/posts/2022-04-15-30daychartchallenge-interactive-plots/" class="card-link">Explore interactive plots</a>
+<a href="https://github.com/dominicroye/30DayChartChallenge_Edition2022" class="card-link">30DayChartChallenge on github</a>
+<a href="https://github.com/nucleic-acid/30DayChartChallenge_2022" class="card-link">and on Twitter</a>
+</div>
+</div>
+
+:::
+
+:::
+
+# let's do this
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card bg-primary mb-3" style="max-width: 20rem;">
+<div class="card-body">
+<h3 class="card-title">Primary Card Title</h3>
+<h6 class="card-subtitle">Card subtitle</h6>
+</div>
+<div class="card-body">
+<p class="card-text"> Some example card body text goes here. </p>
+<img src="https://global.discourse-cdn.com/business4/uploads/imagej/original/2X/4/4904e8fe196486eabdbe0d9d185e94dfcab74e10.png" alt="image.sc logo" style="max-width: 100%;"> 
+</div>
+<div class="card-body">
+<p class="card-text"> Some more example text for this section! </p>
+</div>
+<div class="card-body">
+<a href="https://nucleic-acid.github.io/namedropR/" class="text-white card-link">Documentation</a>
+<a href="https://cloud.r-project.org/package=namedropR" class="text-white card-link">View on CRAN</a>
+<a href="https://github.com/nucleic-acid/namedropR/" class="text-white card-link">Source code</a>
+</div>
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card border-primary mb-3" style="max-width: 40rem;">
+<div class="card-body">
+<h3 class="card-title">Primary Card Title</h3>
+<h6 class="card-subtitle">Card subtitle</h6>
+</div>
+<div class="card-body">
+<p class="card-text"> Some example card body text goes here. </p>
+<img src="https://global.discourse-cdn.com/business4/uploads/imagej/original/2X/4/4904e8fe196486eabdbe0d9d185e94dfcab74e10.png" alt="image.sc logo" style="max-width: 100%;"> 
+</div>
+<br><br>
+<div class="card-body">
+<h5>Key features:</h5>
+<ul class="list-group list-group-flush">
+<li class="list-group-item">Output as PNG or HTML object</li>
+<li class="list-group-item">QR code to make citation scannable</li>
+<li class="list-group-item">Predefined styles and individual adjustments</li>
+</ul>
+</div>
+<div class="card-body">
+<a href="https://nucleic-acid.github.io/namedropR/" class="card-link">Documentation</a>
+<a href="https://cloud.r-project.org/package=namedropR" class="card-link">View on CRAN</a>
+<a href="https://github.com/nucleic-acid/namedropR/" class="card-link">Source code</a>
+</div>
+</div>
+:::
+:::

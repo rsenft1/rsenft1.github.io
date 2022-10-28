@@ -1,0 +1,9 @@
+/* css styles */
+
+
+.leftp p {
+  text-align: left;
+  line-height: 32px;   /* within paragraph */
+  margin-bottom: 30px; /* between paragraphs */
+}
+
