@@ -30,6 +30,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./favicon.png" rel="icon" type="image/png">
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -59,10 +62,49 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-XXXXXXXX', 'auto');
+
+ga('send', {
+  hitType: 'pageview',
+  'anonymizeIp': true,
+});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  });
+});
+</script> 
+  
 <style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content=" &nbsp; Rebecca Senft - Hi there! 👋">
+<meta property="og:image" content="https://rsenft1.github.io/profile.jpg">
+<meta property="og:site-name" content="![](logo.png){width=50px .nolightbox .preview-image} &amp;nbsp; Rebecca Senft
+">
+<meta name="twitter:title" content=" &nbsp; Rebecca Senft - Hi there! 👋">
+<meta name="twitter:image" content="https://rsenft1.github.io/logo.png">
+<meta name="twitter:image-height" content="834">
+<meta name="twitter:image-width" content="832">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -73,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title"><img src="logo.png" class="nolightbox img-fluid" width="50"> &nbsp; Rebecca Senft</span>
+    <span class="navbar-title"><img src="logo.png" class="nolightbox preview-image img-fluid" width="50"> &nbsp; Rebecca Senft</span>
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -82,15 +124,18 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./testpage.html">
+    <a class="nav-link" href="./testpage.html"><i class="bi bi-file-text" role="img">
+</i> 
  <span class="menu-text">Resume</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html">
+    <a class="nav-link" href="./blog.html"><i class="bi bi-pencil-square" role="img">
+</i> 
  <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./data-portfolio.html">
+    <a class="nav-link" href="./data-portfolio.html"><i class="bi bi-bar-chart" role="img">
+</i> 
  <span class="menu-text">Data viz</span></a>
   </li>  
   <li class="nav-item compact">
@@ -133,6 +178,11 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
   </div>
 </header><main class="content page-columns page-full" id="quarto-document-content">
+<script>
+    const theme = localStorage.getItem('theme') || 'light';
+    document.body.className = theme;
+</script>
+<hr>
 <div class="column-body-outset leftp">
 <p>I’m a postdoc studying image analysis in Beth Cimini’s lab in the Imaging Platform of the Broad Institute of MIT and Harvard. Previously, I studied neuroscience (specifically serotonin neurons) in Susan Dymecki’s lab at Harvard University for my PhD.</p>
 <p>Since my PhD, I’ve transitioned from being a wet lab bench scientist to fully computational. I greatly enjoy being a link between these two worlds. Today, I use my biology background to help distill complex computational workflows and concepts to information that is salient and useful for biologists.</p>
@@ -414,6 +464,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+      <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+  </div>
+</footer>
 
 
 
