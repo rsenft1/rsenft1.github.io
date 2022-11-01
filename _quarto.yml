@@ -1,6 +1,5 @@
 project:
   type: website
-
 website:
   title: | 
     ![](logo.png){width=50px .nolightbox .preview-image} &nbsp; Rebecca Senft
