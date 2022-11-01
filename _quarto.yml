@@ -31,11 +31,7 @@ website:
     giscus:
       repo: rsenft1/blog
   page-footer:
-    left: "Blog made with 💖 and [Quarto](https://quarto.org/), by Rebecca Senft. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
-    center: 
-      - icon: github
-        text: blog repo
-        href: https://github.com/rsenft1/blog
+    left: "Blog made with 💖 and [Quarto](https://quarto.org/), by Rebecca Senft. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). [Blog repo](https://github.com/rsenft1/blog)"
     right:
       - icon: github
         href: https://github.com/rsenft1

@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/myblog/CV.qmd",
     "project_path": "CV.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3677095074",
     "contents": "",
     "dirty": false,
     "created": 1667260416077.0,
@@ -15,18 +15,18 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,15",
+        "cursorPosition": "18,0",
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "54:0"
+        "rmdVisualModeLocation": "224:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1667336721,
+    "lastKnownWriteTime": 1667346050,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1667336721082,
+    "last_content_update": 1667346050292,
     "read_only": false,
     "read_only_alternatives": []
 }
