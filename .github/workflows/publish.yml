@@ -18,7 +18,6 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - run: quarto list extensions
-      - run: quarto add quarto-ext/lightbox
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
