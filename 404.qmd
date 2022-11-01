@@ -1,5 +1,6 @@
 ---
 title: "Page not found :grimacing:"
+comments: false
 editor: visual
 from: markdown+emoji
 ---

@@ -11,9 +11,6 @@ website:
       - icon: file-text
         text: Resume/CV
         href: CV.qmd
-      - icon: pencil-square
-        text: Blog
-        href: blog.qmd
       - icon: bar-chart
         text: Data viz
         href: data-portfolio.qmd

@@ -1,5 +1,6 @@
 ---
 title: "Hi there! 👋"
+comments: false
 image: profile.jpg
 from: markdown+emoji
 page-layout: full
