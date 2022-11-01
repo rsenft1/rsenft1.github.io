@@ -27,5 +27,5 @@ I'm a postdoc studying image analysis in Beth Cimini's lab in the Imaging Platfo
 
 Since my PhD, I've transitioned from being a wet lab bench scientist to fully computational. I greatly enjoy being a link between these two worlds. Today, I use my biology background to help distill complex computational workflows and concepts to information that is salient and useful for biologists.
 
-This blog is a collection of resources I've made or contributed to as well as a place to house my resume :page_facing_up: and data visualization portfolio :bar_chart:. I particularly like to make data visualizations about video games :video_game: as playing games is a major hobby of mine.
+This blog is a collection of resources I've made or contributed to as well as a place to house my [resume/CV](CV.qmd) :page_facing_up: and [data visualization portfolio](data-portfolio.qmd) :bar_chart:. I particularly like to make data visualizations about video games :video_game: as playing games is a major hobby of mine.
 :::

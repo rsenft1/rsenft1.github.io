@@ -9,8 +9,8 @@ website:
   navbar:
     right:
       - icon: file-text
-        text: Resume
-        href: testpage.qmd
+        text: Resume/CV
+        href: CV.qmd
       - icon: pencil-square
         text: Blog
         href: blog.qmd
@@ -31,6 +31,23 @@ website:
   twitter-card:
     image: "logo.png"
   open-graph: true
+  comments: 
+    giscus:
+      repo: rsenft1/blog
+  page-footer:
+    left: "Blog made with 💖 and [Quarto](https://quarto.org/), by Rebecca Senft. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
+    center: 
+      - icon: github
+        text: blog repo
+        href: https://github.com/rsenft1/blog
+    right:
+      - icon: github
+        href: https://github.com/rsenft1
+      - icon: twitter
+        href: ttps://twitter.com/senftrebecca
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rebecca-senft/
+
 format:
   html:
     theme:

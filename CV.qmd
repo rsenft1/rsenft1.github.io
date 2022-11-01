@@ -1,0 +1,11 @@
+---
+title: "Rebecca Senft Resume/CV"
+editor: visual
+format: 
+  html:
+    page-layout: full
+    smooth-scroll: true
+---
+<iframe src="CV_Senft.pdf" width="100%" height="1100"></iframe>
+
+---
