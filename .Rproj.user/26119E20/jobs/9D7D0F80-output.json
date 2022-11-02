@@ -28,3 +28,4 @@
 [1,"\u001B[32mGET: /CV.html\u001B[39m\n"]
 [1,"\u001B[91mERROR: YAMLException: bad indentation of a mapping entry (_quarto.yml, 6:40)\n5: \u001B[34m    ![](logo.png){width=50px .nolightbox} &nbsp; Rebecca Senft\u001B[91m\n6: \u001B[34m  site-url: \"https://rsenft1.github.io\"\"\u001B[91m\n                                         ~~\n7: \u001B[34m  description: \"Rebecca Senft's personal website and blog.\"\u001B[91m\u001B[39m\n"]
 [1,"\u001B[32mGET: /CV.html\u001B[39m\n"]
+[1,"\u001B[32mGET: /CV.html\u001B[39m\n"]
