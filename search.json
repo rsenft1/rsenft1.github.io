@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi there! 👋",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m a postdoc studying image analysis in Beth Cimini’s lab in the Imaging Platform of the Broad Institute of MIT and Harvard. Previously, I studied neuroscience (specifically serotonin neurons) in Susan Dymecki’s lab at Harvard University for my PhD.\nSince my PhD, I’ve transitioned from being a wet lab bench scientist to fully computational. I greatly enjoy being a link between these two worlds. Today, I use my biology background to help distill complex computational workflows and concepts to information that is salient and useful for biologists.\nThis blog is a collection of resources I’ve made or contributed to as well as a place to house my resume/CV 📄 and data visualization portfolio 📊. I particularly like to make data visualizations about video games 🎮 as playing games is a major hobby of mine."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Change [cookie preferences](#open_preferences_center)\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "testpage.html",
@@ -28,20 +28,6 @@
     "text": "More info:\n\nRPython\n\n\ntest\n\n\npython test\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nTabset groups are a new feature of Quarto v1.1 so please be sure you’ve installed that version before attempting to use them.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nTabset groups are a new feature of Quarto v1.1 so please be sure you’ve installed that version before attempting to use them.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nTabset groups are a new feature of Quarto v1.1 so please be sure you’ve installed that version before attempting to use them.\n\n\n\n\n\n\n\n\nTip\n\n\n\nTabset groups are a new feature of Quarto v1.1 so please be sure you’ve installed that version before attempting to use them.\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\n\nYou can include code blocks inside of collapsed callouts!\n\n\n\n\n\nHere is some code:\ncode = code\n\n\n\n\n\n\n\n\n\nCan we include tabsets? Yes!\n\n\n\n\n\nHere is some code:\n\nRPython\n\n\ntest\n\n\npython test\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat about a grid of admonitions\n\n\n\n\n\nHere is some code:\ncode=\"hello\"\n\n\n\n\n\n\n\n\n\n\n\nWhat about a grid of admonitions\n\n\n\n\n\nHere is some code:\ncode=\"hello\"\n\n\n\n\n\n\n\n\n\n\n{namedropR}\n\n\nR package, available on CRAN\n\n\n\n\n\nEnables R users to convert a bibliography into a collection of legible, well formatted banners to cite scientific literature on conference slides and posters.\n\n  \n\nKey features:\n\n\n\n\nOutput as PNG or HTML object\n\n\nQR code to make citation scannable\n\n\nPredefined styles and individual adjustments\n\n\n\nDocumentation View on CRAN Source code\n\n\n\n\n\n\n\n30 Day Chart Challenge\n\n\n2022 edition\n\n\n\n\n\nA data visualization community-challenge. Each day in April has a new prompt for a visualization from five different categories: Comparisons, Distributions, Relationships, Timeseries, Uncertainties. I contributed 20 visualizations, learned new technologies and enjoyed the great contributions of the many other participants.\n\n\n\nMy contributions’ code Explore interactive plots 30DayChartChallenge on github and on Twitter"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi there! 👋",
-    "section": "",
-    "text": "I’m a postdoc studying image analysis in Beth Cimini’s lab in the Imaging Platform of the Broad Institute of MIT and Harvard. Previously, I studied neuroscience (specifically serotonin neurons) in Susan Dymecki’s lab at Harvard University for my PhD.\nSince my PhD, I’ve transitioned from being a wet lab bench scientist to fully computational. I greatly enjoy being a link between these two worlds. Today, I use my biology background to help distill complex computational workflows and concepts to information that is salient and useful for biologists.\nThis blog is a collection of resources I’ve made or contributed to as well as a place to house my resume/CV 📄 and data visualization portfolio 📊. I particularly like to make data visualizations about video games 🎮 as playing games is a major hobby of mine."
-  },
-  {
-    "objectID": "data-portfolio.html",
-    "href": "data-portfolio.html",
-    "title": "Data Vizualization Portfolio",
-    "section": "",
-    "text": "Code available on GitHub\n\n\n\n\n \n\n\n Code available on GitHub"
-  },
-  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "Rebecca Senft Resume/CV",
@@ -49,10 +35,10 @@
     "text": "Open PDF in new window"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "blog",
+    "objectID": "data-portfolio.html",
+    "href": "data-portfolio.html",
+    "title": "Data Vizualization Portfolio",
     "section": "",
-    "text": "Change [cookie preferences](#open_preferences_center)\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n0 min\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n0 min\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 29, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Code available on GitHub\n\n\n\n\n \n\n\n Code available on GitHub"
   }
 ]
