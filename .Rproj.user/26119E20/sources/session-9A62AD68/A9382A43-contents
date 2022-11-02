@@ -26,9 +26,8 @@ website:
   favicon: favicon.png
   twitter-card: 
     creator: "@SenftRebecca"
-    image: "profile.jpeg"
-  open-graph:
-    image: "profile.jpeg"
+    image: "https://rsenft1.github.io/thumbnail.png"
+  open-graph: true
   comments: 
     giscus:
       repo: rsenft1/rsenft1.github.io
