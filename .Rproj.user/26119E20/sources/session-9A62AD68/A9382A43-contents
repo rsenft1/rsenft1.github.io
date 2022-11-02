@@ -26,7 +26,7 @@ website:
   favicon: favicon.png
   twitter-card: 
     creator: "@SenftRebecca"
-    image: "profile.jpeg""
+    image: "profile.jpeg"
   open-graph: true
     image: "profile.jpeg"
   comments: 
