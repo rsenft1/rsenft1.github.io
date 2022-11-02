@@ -24,8 +24,7 @@ website:
     type: implied
     style: simple
   favicon: favicon.png
-  twitter-card:
-    image: "thumbnail.png"
+  twitter-card: true
   open-graph: true
   comments: 
     giscus:
