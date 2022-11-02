@@ -26,7 +26,8 @@ website:
   favicon: favicon.png
   twitter-card:
     image: "thumbnail.png"
-  open-graph: true
+  open-graph:
+    image: "thumbnail.png"
   comments: 
     giscus:
       repo: rsenft1/rsenft1.github.io
