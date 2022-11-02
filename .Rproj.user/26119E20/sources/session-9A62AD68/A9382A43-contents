@@ -25,7 +25,7 @@ website:
     style: simple
   favicon: favicon.png
   twitter-card: 
-    image: "https://raw.githubusercontent.com/rsenft1/rsenft1.github.io/9eb2e4554d46896110b82a73fad501ada4d9ba68/thumbnail.png"
+    creator: "@senftrebecca"
   open-graph: true
   comments: 
     giscus:
