@@ -2,7 +2,7 @@ project:
   type: website
 website:
   title: | 
-    ![](logo.png){width=50px .nolightbox .preview-image} &nbsp; Rebecca Senft
+    ![](logo.png){width=50px .nolightbox} &nbsp; Rebecca Senft
   site-url: https://rsenft1.github.io
   description: "Rebecca Senft's personal website and blog."
   navbar:
@@ -26,8 +26,7 @@ website:
   favicon: favicon.png
   twitter-card:
     image: "thumbnail.png"
-  open-graph:
-    image: "thumbnail.png"
+  open-graph: true
   comments: 
     giscus:
       repo: rsenft1/rsenft1.github.io
