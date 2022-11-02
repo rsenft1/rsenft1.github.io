@@ -31,3 +31,5 @@
 [1,"\u001B[32mGET: /CV.html\u001B[39m\n"]
 [1,"\u001B[32mGET: /CV.html\u001B[39m\n"]
 [1,"\u001B[32mGET: /CV.html\u001B[39m\n"]
+[1,"\u001B[32mGET: /CV.html\u001B[39m\n"]
+[1,"\u001B[91mERROR: YAMLException: bad indentation of a mapping entry (_quarto.yml, 29:26)\n28: \u001B[34m    creator: \"@SenftRebecca\"\u001B[91m\n29: \u001B[34m    image: \"profile.jpeg\"\"\u001B[91m\n                            ~~\n30: \u001B[34m  open-graph: true\u001B[91m\u001B[39m\n"]
