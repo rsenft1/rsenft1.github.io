@@ -26,6 +26,7 @@ website:
   favicon: favicon.png
   twitter-card:
     image: "logo.png"
+    card-style: summary
   open-graph: true
   comments: 
     giscus:
