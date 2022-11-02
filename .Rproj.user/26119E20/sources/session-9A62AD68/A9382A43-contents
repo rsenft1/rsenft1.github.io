@@ -28,7 +28,7 @@ website:
     creator: "@SenftRebecca"
     image: "profile.jpeg""
   open-graph: true
-    image: "profile.jpeg""
+    image: "profile.jpeg"
   comments: 
     giscus:
       repo: rsenft1/rsenft1.github.io
