@@ -27,7 +27,7 @@ website:
   twitter-card: 
     creator: "@SenftRebecca"
     image: "profile.jpeg"
-  open-graph: true
+  open-graph:
     image: "profile.jpeg"
   comments: 
     giscus:
