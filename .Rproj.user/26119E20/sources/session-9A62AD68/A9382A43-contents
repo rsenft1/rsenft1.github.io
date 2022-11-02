@@ -3,7 +3,7 @@ project:
 website:
   title: | 
     ![](logo.png){width=50px .nolightbox} &nbsp; Rebecca Senft
-  site-url: https://rsenft1.github.io
+  site-url: "https://rsenft1.github.io""
   description: "Rebecca Senft's personal website and blog."
   navbar:
     right:
