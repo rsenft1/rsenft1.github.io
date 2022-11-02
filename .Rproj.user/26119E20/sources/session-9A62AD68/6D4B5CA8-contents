@@ -5,7 +5,7 @@ filters:
   - lightbox
 lightbox: 
   match: auto
-  desc-position: right
+  desc-position: bottom
 format: 
   html:
     page-layout: full

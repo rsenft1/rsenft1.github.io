@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/myblog/data-portfolio.qmd",
     "project_path": "data-portfolio.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "633452385",
     "contents": "",
     "dirty": false,
     "created": 1666996215231.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "11,23",
+        "cursorPosition": "7,23",
         "scrollLine": "1",
         "rmdVisualModeLocation": "174:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1667336750,
+    "lastKnownWriteTime": 1667347945,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1667336750453,
+    "last_content_update": 1667347945366,
     "read_only": false,
     "read_only_alternatives": []
 }

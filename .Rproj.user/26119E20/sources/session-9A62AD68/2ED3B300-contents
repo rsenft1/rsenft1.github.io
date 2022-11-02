@@ -8,6 +8,13 @@
   margin-right: 0px;
 }
 
+/* lightbox customized css*/ 
+div.gslide div.gslide-description,
+div.gslide-description .gslide-title,
+div.gslide-description .gslide-desc {
+    color: white;
+    background-color: black;
+}
 
 .quarto-about-jolla.column-page { 
   margin-top: 50px; /* reduce space above profile picture */
