@@ -14,20 +14,6 @@
     "text": "Change [cookie preferences](#open_preferences_center)\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "data-portfolio.html",
-    "href": "data-portfolio.html",
-    "title": "Data Vizualization Portfolio",
-    "section": "",
-    "text": "Code available on GitHub\n\n\n\n\n \n\n\n Code available on GitHub"
-  },
-  {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Rebecca Senft Resume/CV",
-    "section": "",
-    "text": "Open PDF in new window"
-  },
-  {
     "objectID": "testpage.html",
     "href": "testpage.html",
     "title": "projects",
@@ -40,5 +26,19 @@
     "title": "projects",
     "section": "More info:",
     "text": "More info:\n\nRPython\n\n\ntest\n\n\npython test\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nTabset groups are a new feature of Quarto v1.1 so please be sure you’ve installed that version before attempting to use them.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nTabset groups are a new feature of Quarto v1.1 so please be sure you’ve installed that version before attempting to use them.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nTabset groups are a new feature of Quarto v1.1 so please be sure you’ve installed that version before attempting to use them.\n\n\n\n\n\n\n\n\nTip\n\n\n\nTabset groups are a new feature of Quarto v1.1 so please be sure you’ve installed that version before attempting to use them.\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\n\nYou can include code blocks inside of collapsed callouts!\n\n\n\n\n\nHere is some code:\ncode = code\n\n\n\n\n\n\n\n\n\nCan we include tabsets? Yes!\n\n\n\n\n\nHere is some code:\n\nRPython\n\n\ntest\n\n\npython test\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat about a grid of admonitions\n\n\n\n\n\nHere is some code:\ncode=\"hello\"\n\n\n\n\n\n\n\n\n\n\n\nWhat about a grid of admonitions\n\n\n\n\n\nHere is some code:\ncode=\"hello\"\n\n\n\n\n\n\n\n\n\n\n{namedropR}\n\n\nR package, available on CRAN\n\n\n\n\n\nEnables R users to convert a bibliography into a collection of legible, well formatted banners to cite scientific literature on conference slides and posters.\n\n  \n\nKey features:\n\n\n\n\nOutput as PNG or HTML object\n\n\nQR code to make citation scannable\n\n\nPredefined styles and individual adjustments\n\n\n\nDocumentation View on CRAN Source code\n\n\n\n\n\n\n\n30 Day Chart Challenge\n\n\n2022 edition\n\n\n\n\n\nA data visualization community-challenge. Each day in April has a new prompt for a visualization from five different categories: Comparisons, Distributions, Relationships, Timeseries, Uncertainties. I contributed 20 visualizations, learned new technologies and enjoyed the great contributions of the many other participants.\n\n\n\nMy contributions’ code Explore interactive plots 30DayChartChallenge on github and on Twitter"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Rebecca Senft Resume/CV",
+    "section": "",
+    "text": "Open PDF in new window"
+  },
+  {
+    "objectID": "data-portfolio.html",
+    "href": "data-portfolio.html",
+    "title": "Data Vizualization Portfolio",
+    "section": "",
+    "text": "Code available on GitHub\n\n\n\n\n \n\n\n Code available on GitHub"
   }
 ]
