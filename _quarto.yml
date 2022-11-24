@@ -32,7 +32,7 @@ website:
     giscus:
       repo: rsenft1/rsenft1.github.io
   page-footer:
-    left: "Blog made with 💖 and [Quarto](https://quarto.org/), by Rebecca Senft <br>License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    left: "Blog made with 💖 and [Quarto](https://quarto.org/), by Rebecca Senft <br>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
     center: "[Blog {{< fa brands github >}} repo](https://github.com/rsenft1/rsenft1.github.io)"
     right:
       - icon: github
