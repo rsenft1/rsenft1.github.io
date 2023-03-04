@@ -13,7 +13,7 @@ format:
 <center>
 
 ::: iframe-container
-<iframe loading="lazy" src="CV_Senft.pdf#zoom=FitH" title="Senft CV"></iframe>
+<iframe loading="lazy" src="CV_Senft.pdf#zoom=75" title="Senft CV"></iframe>
 :::
 
 </center>
