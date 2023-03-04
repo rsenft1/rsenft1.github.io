@@ -35,7 +35,7 @@ div.gslide-description .gslide-desc {
 
 .iframe-container {
   overflow: hidden;
-  padding-top: 125%;
+  padding-top: 129.41%;
   position: relative;
 }
 

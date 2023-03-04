@@ -3,7 +3,7 @@
     "path": "~/GitHub/blog/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "3234563323",
+    "hash": "3294643313",
     "contents": "",
     "dirty": false,
     "created": 1677898122120.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "41,17",
+        "cursorPosition": "37,21",
         "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1677898470,
+    "lastKnownWriteTime": 1677899330,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1677898470359,
+    "last_content_update": 1677899330920,
     "read_only": false,
     "read_only_alternatives": []
 }
