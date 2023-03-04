@@ -9,15 +9,22 @@ page-layout: full
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/senftrebecca
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/rebecca-senft/
     - icon: github
       text: Github
       href: https://github.com/rsenft1
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rebecca-senft/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/senftrebecca
+    - icon: mastodon
+      text: Mastodon
+      href: https://fosstodon.org/@RebeccaSenft
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/cambridgecritters/
+
 format: 
   html:
     link-external-icon: false

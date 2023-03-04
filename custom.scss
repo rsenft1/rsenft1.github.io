@@ -4,3 +4,9 @@ $primary: #DE0D92;
 $navbar-bg: #DE0D92;
 $navbar-hl: #782c54;
 $font-family-sans-serif: Ubuntu;
+
+// Put all icons in single row in the hamburger menu //
+
+.navbar-nav.navbar-nav-scroll.ms-auto {
+  flex-direction: row;
+}
