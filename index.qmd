@@ -15,12 +15,6 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/rebecca-senft/
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/senftrebecca
-    - icon: mastodon
-      text: Mastodon
-      href: https://fosstodon.org/@RebeccaSenft
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/cambridgecritters/
@@ -33,7 +27,7 @@ format:
 ---
 
 ::: leftp
-I'm a postdoctoral researcher studying image analysis in Beth Cimini's lab in the Imaging Platform of the Broad Institute of MIT and Harvard. Previously, I studied neuroscience (specifically serotonin neurons) in Susan Dymecki's lab at Harvard University for my PhD.
+I'm a senior scientist in bioinformatics at Merck who specializes in analyzing microscopy images and single cell phenotypic features derived from such images. Previously, I was a postdoctoral researcher studying image analysis in Beth Cimini's lab in the Imaging Platform of the Broad Institute of MIT and Harvard. Before that, I was a wet lab scientist studying neuroscience (specifically serotonin neurons) in Susan Dymecki's lab at Harvard University for my PhD.
 
 Since my PhD, I've transitioned from being a wet lab bench scientist to being fully computational. I greatly enjoy being a link between these two worlds-- on the one hand empowering biologists to augment their research by teaching them how to build reproducible analysis pipelines and on the other, helping to improve our software aimed at biologists by making it more accessible, approachable and well-documented. Today, I use my biology background to help distill complex computational workflows and concepts to information that is salient and useful for biologists.
 
