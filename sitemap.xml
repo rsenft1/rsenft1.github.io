@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rsenft1.github.io/index.html</loc>
-    <lastmod>2025-05-27T04:00:01.950Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rsenft1.github.io/blog.html</loc>
-    <lastmod>2025-05-27T04:00:02.934Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rsenft1.github.io/data-portfolio.html</loc>
-    <lastmod>2025-05-27T04:00:03.242Z</lastmod>
-  </url>
-  <url>
     <loc>https://rsenft1.github.io/CV.html</loc>
-    <lastmod>2025-05-27T04:00:03.519Z</lastmod>
+    <lastmod>2025-07-09T00:29:24.934Z</lastmod>
   </url>
   <url>
     <loc>https://rsenft1.github.io/testpage.html</loc>
-    <lastmod>2025-05-27T04:00:04.014Z</lastmod>
+    <lastmod>2025-07-09T00:29:26.068Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rsenft1.github.io/index.html</loc>
+    <lastmod>2025-07-09T00:29:26.371Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rsenft1.github.io/data-portfolio.html</loc>
+    <lastmod>2025-07-09T00:29:26.666Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rsenft1.github.io/blog.html</loc>
+    <lastmod>2025-07-09T00:29:27.675Z</lastmod>
   </url>
 </urlset>
